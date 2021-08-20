@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:cli/cli.dart' as cli;
+import 'package:cli/calculate.dart' as cli;
 
 void main(List<String> arguments) {
   String? line = stdin.readLineSync();
